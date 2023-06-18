@@ -1,0 +1,18 @@
+[submodule "talk-introduction-to-mqtt"]
+	path = talk-introduction-to-mqtt
+	url = https://github.com/prandogabriel/talk-introduction-to-mqtt
+[submodule "talk-serverless"]
+	path = talk-serverless
+	url = https://github.com/prandogabriel/talk-serverless
+[submodule "tech-talk-sgbd-performance"]
+	path = tech-talk-sgbd-performance
+	url = https://github.com/prandogabriel/tech-talk-sgbd-performance
+[submodule "tech-talk-ws-and-aws-api-gateway-ws"]
+	path = tech-talk-ws-and-aws-api-gateway-ws
+	url = https://github.com/prandogabriel/tech-talk-ws-and-aws-api-gateway-ws
+[submodule "tech-talk-aws-step-functions"]
+	path = tech-talk-aws-step-functions
+	url = https://github.com/prandogabriel/tech-talk-aws-step-functions
+[submodule "tech-talk-elastic-stack"]
+	path = tech-talk-elastic-stack
+	url = https://github.com/prandogabriel/tech-talk-elastic-stack
