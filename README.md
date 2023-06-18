@@ -6,12 +6,12 @@ Este repositório é uma coleção de talks que eu ministrei sobre diversos tóp
 
 Este repositório contém os seguintes submódulos, listados em ordem cronológica:
 
-1. **[Elastic Stack](https://github.com/prandogabriel/tech-talk-elastic-stack)** (Novembro de 2021): Este talk é sobre o Elastic Stack (anteriormente conhecido como ELK Stack), incluindo Elasticsearch, Logstash e Kibana, e como eles podem ser usados para pesquisar, analisar e visualizar dados em tempo real.
-    - Caminho: `tech-talk-elastic-stack`
-
-2. **[WebSockets e AWS API Gateway WebSocket](https://github.com/prandogabriel/tech-talk-ws-and-aws-api-gateway-ws)** (Agosto de 2021): Este talk aborda o protocolo WebSocket e como ele pode ser usado com AWS API Gateway para construir aplicações em tempo real.
+1. **[WebSockets e AWS API Gateway WebSocket](https://github.com/prandogabriel/tech-talk-ws-and-aws-api-gateway-ws)** (Agosto de 2021): Este talk aborda o protocolo WebSocket e como ele pode ser usado com AWS API Gateway para construir aplicações em tempo real.
     - Caminho: `tech-talk-ws-and-aws-api-gateway-ws`
    
+2. **[Elastic Stack](https://github.com/prandogabriel/tech-talk-elastic-stack)** (Novembro de 2021): Este talk é sobre o Elastic Stack (anteriormente conhecido como ELK Stack), incluindo Elasticsearch, Logstash e Kibana, e como eles podem ser usados para pesquisar, analisar e visualizar dados em tempo real.
+    - Caminho: `tech-talk-elastic-stack`
+
 3. **[AWS Step Functions](https://github.com/prandogabriel/tech-talk-aws-step-functions)** (Janeiro de 2022): Um talk focando nas AWS Step Functions e como elas podem ser usadas para coordenar aplicações distribuídas e microservices.
     - Caminho: `tech-talk-aws-step-functions`
    
