@@ -16,3 +16,6 @@
 [submodule "tech-talk-elastic-stack"]
 	path = tech-talk-elastic-stack
 	url = https://github.com/prandogabriel/tech-talk-elastic-stack
+[submodule "talk-postgres-performance"]
+	path = talk-postgres-performance
+	url = git@github.com:prandogabriel/talk-postgres-performance.git

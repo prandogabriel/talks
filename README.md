@@ -23,6 +23,9 @@ Este repositório contém os seguintes submódulos, listados em ordem cronológi
    
 6. **[Introdução ao MQTT](https://github.com/prandogabriel/talk-introduction-to-mqtt)** (Novembro de 2022): Este talk oferece uma introdução ao MQTT, um protocolo de mensagens leve para pequenos sensores e dispositivos móveis.
     - Caminho: `talk-introduction-to-mqtt`
+   
+7. **[Performance e Escalabilidade em bancos SQL](https://github.com/prandogabriel/talk-postgres-performance)** (Agosto de 2023): Este talk técnicas de otimização de desempenho em bancos SQL mais voltado ao PostgresSQL e seus tipos de index.
+    - Caminho: `talk-postgres-performance`
 
 ### Como Clonar este Repositório
 
