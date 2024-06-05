@@ -26,6 +26,9 @@ Este repositório contém os seguintes submódulos, listados em ordem cronológi
    
 7. **[Performance e Escalabilidade em bancos SQL](https://github.com/prandogabriel/talk-postgres-performance)** (Agosto de 2023): Este talk técnicas de otimização de desempenho em bancos SQL mais voltado ao PostgresSQL e seus tipos de index.
     - Caminho: `talk-postgres-performance`
+   
+8. **[Workshop - Introdução a aplicações serverless na AWS](https://github.com/prandogabriel/workshop-serverless-aws)** (Junho de 2024): Workshop oferecido durante a semana acadêmica de eng. comp e ADS da UTFPR-PB.
+    - Caminho: `workshop-serverless-aws`
 
 ### Como Clonar este Repositório
 

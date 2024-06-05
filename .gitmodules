@@ -19,3 +19,6 @@
 [submodule "talk-postgres-performance"]
 	path = talk-postgres-performance
 	url = git@github.com:prandogabriel/talk-postgres-performance.git
+[submodule "workshop-serverless-aws"]
+	path = workshop-serverless-aws
+	url = git@github.com:prandogabriel/workshop-serverless-aws.git
