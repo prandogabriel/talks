@@ -22,3 +22,7 @@
 [submodule "workshop-serverless-aws"]
 	path = workshop-serverless-aws
 	url = git@github.com:prandogabriel/workshop-serverless-aws.git
+[submodule "talk-observability-building-it-yourself"]
+	path = talk-observability-building-it-yourself
+	url = git@github.com:prandogabriel/talk-observability-building-it-yourself.git
+	branch = main

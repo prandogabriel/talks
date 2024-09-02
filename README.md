@@ -29,6 +29,9 @@ Este repositório contém os seguintes submódulos, listados em ordem cronológi
    
 8. **[Workshop - Introdução a aplicações serverless na AWS](https://github.com/prandogabriel/workshop-serverless-aws)** (Junho de 2024): Workshop oferecido durante a semana acadêmica de eng. comp e ADS da UTFPR-PB.
     - Caminho: `workshop-serverless-aws`
+   
+9. **[Evitando lock-ins, construindo sua própria layer de observabilidade com AWS Lambda telemetry API](https://github.com/prandogabriel/talk-observability-building-it-yourself)** (Agosto de 2024): Talk apresentada no DevOpsDays Curitiba 2024.
+    - Caminho: `talk-observability-building-it-yourself`
 
 ### Como Clonar este Repositório
 
@@ -43,6 +46,7 @@ Se você já clonou o repositório, mas não incluiu os submódulos, você pode 
 ```sh
 git submodule init
 git submodule update
+git submodule -q foreach git pull -q origin main
 ```
 
 ### Contribuindo
