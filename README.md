@@ -33,6 +33,9 @@ Este repositório contém os seguintes submódulos, listados em ordem cronológi
 9. **[Evitando lock-ins, construindo sua própria layer de observabilidade com AWS Lambda telemetry API](https://github.com/prandogabriel/talk-observability-building-it-yourself)** (Agosto de 2024): Talk apresentada no DevOpsDays Curitiba 2024.
     - Caminho: `talk-observability-building-it-yourself`
 
+9. **[Desenvolvendo soluções com IA de forma rápida na GCP com Serverless](https://github.com/prandogabriel/talk-gcp-serverless-with-ai)** (Setembro de 2024): Talk apresentada no DevFest 2024 - Pato Branco.
+    - Caminho: `talk-gcp-serverless-with-ai`
+
 ### Como Clonar este Repositório
 
 Para clonar este repositório junto com seus submódulos, você pode usar o seguinte comando Git:

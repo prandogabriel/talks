@@ -26,3 +26,7 @@
 	path = talk-observability-building-it-yourself
 	url = git@github.com:prandogabriel/talk-observability-building-it-yourself.git
 	branch = main
+[submodule "talk-gcp-serverless-with-ai"]
+	path = talk-gcp-serverless-with-ai
+	url = git@github.com:prandogabriel/talk-gcp-serverless-with-ai.git
+	branch = main
