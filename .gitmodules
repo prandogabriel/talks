@@ -30,3 +30,7 @@
 	path = talk-gcp-serverless-with-ai
 	url = git@github.com:prandogabriel/talk-gcp-serverless-with-ai.git
 	branch = main
+[submodule "talk-websocket-with-lambda-and-api-gw"]
+	path = talk-websocket-with-lambda-and-api-gw
+	url = git@github.com:prandogabriel/talk-websocket-with-lambda-and-api-gw.git
+	branch = main
