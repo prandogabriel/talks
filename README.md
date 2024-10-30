@@ -39,6 +39,9 @@ Este repositório contém os seguintes submódulos, listados em ordem cronológi
 11. **[Desmistificando Websockets com AWS Lambda e API Gateway](https://github.com/prandogabriel/talk-websocket-with-lambda-and-api-gw)** (Outubro de 2024): Talk apresentada no Recrutatech 2024 - Curitiba.
     - Caminho: `talk-websocket-with-lambda-and-api-gw`
 
+12. **[Construindo sua própria layer de observabilidade com AWS Lambda telemetry API](https://github.com/prandogabriel/talks/blob/main/assets/serverless-observability/talk-building-observability-layer.pdf)** (Outubro de 2024): Talk apresentada no Serverless Days SP 2024 - São Paulo.
+    - Caminho: `assets/serverless-observability`
+
 ### Como Clonar este Repositório
 
 Para clonar este repositório junto com seus submódulos, você pode usar o seguinte comando Git:
